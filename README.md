@@ -1,4 +1,4 @@
-# ColdLion – College Management Chatbot
+# SQL - AI College Management Chatbot
 
 An AI-powered chatbot for a **College Management System**. Staff and administrators ask questions in plain English — the system translates them into PostgreSQL queries, executes them safely, and returns a clear natural-language answer. Powered by Groq's LLaMA 3.3 70B model.
 
