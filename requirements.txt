@@ -1,0 +1,12 @@
+streamlit
+groq
+langchain
+langchain-groq
+sqlalchemy
+psycopg2-binary
+pandas
+python-dotenv
+matplotlib
+fastapi
+uvicorn
+pydantic
